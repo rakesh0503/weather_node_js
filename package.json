@@ -1,0 +1,19 @@
+{
+  "name": "weather_app_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2"
+  },
+  "author": "rakesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
